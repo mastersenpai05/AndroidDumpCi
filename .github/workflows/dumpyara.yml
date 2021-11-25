@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=rsn0&id=1oHqyCJNsouWpS9gAdlVxjWBscgo5AJRN
+  ROM_URL: https://ava6.androidfilehost.com/dl/7-lxHfRxowVXmhOS7gd7ww/1637924033/17248734326145733906/Tecno_Camon_16_CE7_MT6768_V431_201201_%28by_naijarom.com%29.zip
 
 jobs:
   build:
