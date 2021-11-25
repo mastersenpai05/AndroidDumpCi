@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://index.aospbuilding.workers.dev/0:/Firmware.zip%22&response-content-type=application%2Fzip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI75SICYCOZ7DPWTA%2F20211125%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20211125T131858Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=dfbb4a1fb607714b7a458bf10fa20793bc058e3d8812e1eceedcb32cca5c46c1
+  ROM_URL: https://index.aospbuilding.workers.dev/0:/Firmware.zip
 
 jobs:
   build:
