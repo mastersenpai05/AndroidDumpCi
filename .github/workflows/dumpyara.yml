@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://s3.ap-southeast-1.amazonaws.com/blob-ap-southeast-1-cpfdq7/sara/ce/ce4d/ce4d4c29-0c28-414b-9f43-1ca3c960ed39.bin?response-content-disposition=attachment%3B%20filename%3D%22Firmware.zip%22&response-content-type=application%2Fzip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI75SICYCOZ7DPWTA%2F20211125%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20211125T131858Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=dfbb4a1fb607714b7a458bf10fa20793bc058e3d8812e1eceedcb32cca5c46c1
+  ROM_URL: https://drive.google.com/file/d/13Yow4T0KW2ScRlUh3tP8sOyzIFACrp-D/view?usp=drivesdksition=attachment%3B%20filename%3D%22Firmware.zip%22&response-content-type=application%2Fzip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI75SICYCOZ7DPWTA%2F20211125%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20211125T131858Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=dfbb4a1fb607714b7a458bf10fa20793bc058e3d8812e1eceedcb32cca5c46c1
 
 jobs:
   build:
