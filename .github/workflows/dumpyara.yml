@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://worst-generation.prajwals.workers.dev/0:/X660C.zip
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=rsn0&id=1oHqyCJNsouWpS9gAdlVxjWBscgo5AJRN
 
 jobs:
   build:
