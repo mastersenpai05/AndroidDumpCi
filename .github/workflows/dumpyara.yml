@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://mpl1.androidfilehost.com/dl/fR1I-tgdBmy8VNBVQgXf0g/1638275291/7161016148664848257/LE7-firmware.zip
+  ROM_URL: https://rehans.harshtutorialdrive.workers.dev/0://KF8-H696AB-R-TR-210419V94.zip
 
 jobs:
   build:
