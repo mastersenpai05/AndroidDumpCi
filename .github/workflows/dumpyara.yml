@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://rehans.harshtutorialdrive.workers.dev/0://KF8-H696AB-R-TR-210419V94.zip
+  ROM_URL: https://ava5.androidfilehost.com/dl/cwShkoyurBrLZix24yhdQw/1638445592/7161016148664849610/Infinix_X683_firmware.zip
 
 jobs:
   build:
