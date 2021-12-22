@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://ava5.androidfilehost.com/dl/cwShkoyurBrLZix24yhdQw/1638445592/7161016148664849610/Infinix_X683_firmware.zip
+  ROM_URL: https://mva1.uploads.androidfilehost.com/dl/NVqXk6vmgz1izkZapD4vDw/1640232749/17825722713688254547/Cherry_MobileAQUAS9.zip
 
 jobs:
   build:
