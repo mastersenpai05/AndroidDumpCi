@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: http://download1080.mediafire.com/k4szsjjm1xxg/vb2ryq5pr6geppg/Firmware.zip
+  ROM_URL: https://mva1.androidfilehost.com/dl/zr2q9IpeF-1h4AHrp3cYNg/1641016418/17825722713688259792/Firmware.zip
 
 jobs:
   build:
