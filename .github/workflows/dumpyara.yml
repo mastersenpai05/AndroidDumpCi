@@ -12,7 +12,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: http://download2274.mediafire.com/trw4t6ctm3rg/vb2ryq5pr6geppg/Firmware.zip
+  ROM_URL: http://download1080.mediafire.com/k4szsjjm1xxg/vb2ryq5pr6geppg/Firmware.zip
 
 jobs:
   build:
